@@ -1,0 +1,74 @@
+.bread-nav {
+	background-color: #87CEFA;
+	padding: 25px 0;
+    border-radius: 5px;
+}
+
+.div{
+    background-image:url(December\ Light\ -\ Fine\ Art\ Photograph.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    text-align: center;
+    background-attachment: fixed;
+    background-position: center;  
+    height: px;
+    padding: 30px 40px;
+}
+
+
+.bread-nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+    
+	justify-content: center;
+}
+
+.bread-nav li {
+	margin: 0 15px;
+}
+
+.bread-nav a {
+	text-decoration: none;
+	color: white;
+	font-weight: bolder;
+	font-size: 27px;
+	transition: color 0.3s ease;
+}
+
+.welcome{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 50px;
+    color: white;
+   
+}
+
+.bread{
+    padding-bottom: 40px;
+    text-align: center;
+    font-size:27px ;
+    color: white;
+}
+
+button{
+   
+        width: 10%;
+        padding: 16px 0;
+        font-size: 1rem;
+        background: #87CEFA;
+        color: #fff;
+        font-weight: 500;
+        border-radius: 4px;
+        border: none;
+        transition: 0.1s ease;
+    
+}
+
+button:hover {
+    background: #F0E68C;
+}
+
+
